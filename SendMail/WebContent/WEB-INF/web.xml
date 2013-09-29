@@ -19,12 +19,12 @@
 
 	<context-param>
 		<param-name>user</param-name>
-		<param-value>cadsm2013@gmail.com</param-value>
+		<param-value>XXXXXXXX@gmail.com</param-value>
 	</context-param>
 
 	<context-param>
 		<param-name>pass</param-name>
-		<param-value>@cadsm2013</param-value>
+		<param-value>XXXXXXX</param-value>
 	</context-param>
 
 	<welcome-file-list>
